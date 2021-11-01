@@ -427,6 +427,18 @@
                   "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874834"
                 }
               ]
+            },
+            {
+              "Type" : "CUDA legacy",
+              "Version" : [
+                {
+                  "Num" : "11.4.2",
+                  "DirLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-rhel7-11-4-local-11.4.2_470.57.02-1.x86_64.rpm",
+                  "FwLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-rhel7-11-4-local-11.4.2_470.57.02-1.x86_64.rpm",
+                  "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
+                  "InstallMethod" : 0
+                }
+              ]
             }
           ],
           "DKMS" : {
@@ -530,6 +542,18 @@
                   "Num" : "390.42",
                   "DirLink" : "https://download.microsoft.com/download/3/8/2/382E8D8A-7620-4F89-B772-A84D97524F7E/NVIDIA-Linux-x86_64-grid.run",
                   "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874834"
+                }
+              ]
+            },
+            {
+              "Type" : "CUDA legacy",
+              "Version" : [
+                {
+                  "Num" : "11.4.2",
+                  "DirLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-rhel8-11-4-local-11.4.2_470.57.02-1.x86_64.rpm",
+                  "FWLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-rhel8-11-4-local-11.4.2_470.57.02-1.x86_64.rpm",
+                  "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm",
+                  "InstallMethod" : 0
                 }
               ]
             }
@@ -636,6 +660,17 @@
                   "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874834"
                 }
               ]
+            },
+            {
+              "Type" : "CUDA legacy",
+              "Version" : [
+                {
+                  "Num" : "11.4.2",
+                  "DirLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-ubuntu1804-11-4-local_11.4.2-470.57.02-1_amd64.deb",
+                  "FwLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-ubuntu1804-11-4-local_11.4.2-470.57.02-1_amd64.deb",
+                  "InstallMethod" : 0
+                }
+              ]
             }
           ]
         },
@@ -732,6 +767,17 @@
                   "Num" : "390.42",
                   "DirLink" : "https://download.microsoft.com/download/3/8/2/382E8D8A-7620-4F89-B772-A84D97524F7E/NVIDIA-Linux-x86_64-grid.run",
                   "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874834"
+                }
+              ]
+            },
+            {
+              "Type" : "CUDA legacy",
+              "Version" : [
+                {
+                  "Num" : "11.4.2",
+                  "DirLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-ubuntu1804-11-4-local_11.4.2-470.57.02-1_amd64.deb",
+                  "FwLink" : "https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda-repo-ubuntu1804-11-4-local_11.4.2-470.57.02-1_amd64.deb",
+                  "InstallMethod" : 0
                 }
               ]
             }
