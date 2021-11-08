@@ -429,13 +429,16 @@
               ]
             },
             {
-              "Type" : "CUDA - last supported Nvidia driver",
+              "Type" : "CUDA with last supported Nvidia driver",
               "Version" : [
                 {
                   "Comment" : "For NCv1 / Tesla K80",
-                  "Num" : "470.82.01",
-                  "DirLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
-                  "FwLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
+                  "Num" : "10.0.130",
+                  "DirLink" : "https://download.microsoft.com/download/9/3/5/9356AEC3-D562-4E16-BF7A-4369980CB0D5/cuda-repo-rhel7-10.0.130-1.x86_64.rpm",
+                  "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874273",
+                  "DriverVersion" : "470.82.01",
+                  "DriverDirLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
+                  "DriverFwLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
                   "InstallMethod" : 0
                 }
@@ -547,15 +550,15 @@
               ]
             },
             {
-              "Type" : "CUDA - last supported Nvidia driver",
+              "Type" : "CUDA with last supported Nvidia driver",
               "Version" : [
                 {
                   "Comment" : "For NCv1 / Tesla K80",
-                  "Num" : "470.82.01",
-                  "DirLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel8-470.82.01-1.0-1.x86_64.rpm",
-                  "FWLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-rhel8-470.82.01-1.0-1.x86_64.rpm",
+                  "Num" : "11.1",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-rhel8.repo",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm",
-                  "InstallMethod" : 0
+                  "DriverVersion" : "470",
+                  "InstallMethod" : 2
                 }
               ]
             }
@@ -664,14 +667,15 @@
               ]
             },
             {
-              "Type" : "CUDA - last supported Nvidia driver",
+              "Type" : "CUDA with last supported Nvidia driver",
               "Version" : [
                 {
                   "Comment" : "For NCv1 / Tesla K80",
-                  "Num" : "470.82.01",
-                  "DirLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-ubuntu1804-470.82.01_1.0-1_amd64.deb",
-                  "FwLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-ubuntu1804-470.82.01_1.0-1_amd64.deb",
-                  "InstallMethod" : 0
+                  "Num" : "11.1",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/",
+                  "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
+                  "DriverVersion" : "470",
+                  "InstallMethod" : 1
                 }
               ]
             }
@@ -774,14 +778,15 @@
               ]
             },
             {
-              "Type" : "CUDA - last supported Nvidia driver",
+              "Type" : "CUDA with last supported Nvidia driver",
               "Version" : [
                 {
                   "Comment" : "For NCv1 / Tesla K80",
-                  "Num" : "470.82.01",
-                  "DirLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-ubuntu2004-470.82.01_1.0-1_amd64.deb",
-                  "FwLink" : "https://us.download.nvidia.com/tesla/470.82.01/nvidia-driver-local-repo-ubuntu2004-470.82.01_1.0-1_amd64.deb",
-                  "InstallMethod" : 0
+                  "Num" : "11.1",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/",
+                  "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
+                  "DriverVersion" : "470",
+                  "InstallMethod" : 1
                 }
               ]
             }
