@@ -451,8 +451,8 @@
                 {
                   "Comment" : "TEST; For NV series",
                   "SkuRegEx" : "(nv[0-9]+r?)$",
-                  "DriverVersion" : "460.73",
-                  "DriverFwLink": "https://download.microsoft.com/download/5/f/9/5f9d855b-8910-4e2d-90a6-5a038e78940f/NVIDIA-Linux-x86_64-460.73.01-grid-azure.run"
+                  "Num" : "460.73",
+                  "FwLink": "https://download.microsoft.com/download/5/f/9/5f9d855b-8910-4e2d-90a6-5a038e78940f/NVIDIA-Linux-x86_64-460.73.01-grid-azure.run"
                 }
               ]
             }
@@ -699,8 +699,8 @@
                 {
                   "Comment" : "TEST; For NV series",
                   "SkuRegEx" : "(nv[0-9]+r?)$",
-                  "DriverVersion" : "460.73",
-                  "DriverFwLink": "https://download.microsoft.com/download/5/f/9/5f9d855b-8910-4e2d-90a6-5a038e78940f/NVIDIA-Linux-x86_64-460.73.01-grid-azure.run"
+                  "Num" : "460.73",
+                  "FwLink": "https://download.microsoft.com/download/5/f/9/5f9d855b-8910-4e2d-90a6-5a038e78940f/NVIDIA-Linux-x86_64-460.73.01-grid-azure.run"
                 }
               ]
             }
@@ -822,7 +822,7 @@
                 {
                   "Comment" : "TEST; For NV series",
                   "SkuRegEx" : "(nv[0-9]+r?)$",
-                  "DriverVersion" : "460.73",
+                  "Num" : "460.73",
                   "DirLink": "https://download.microsoft.com/download/b/d/d/bdd729ee-5003-4427-ace4-a7b9172b2e29/NVIDIA-Linux-x86_64-470.63.01-grid-azure.run",
                   "FwLink": "https://go.microsoft.com/fwlink/?linkid=874272"
                 }
