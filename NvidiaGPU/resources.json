@@ -793,6 +793,18 @@
                   "InstallMethod" : 1
                 }
               ]
+            },
+            {
+              "Type" : "GRID with last supported Nvidia driver",
+              "Version" : [
+                {
+                  "Comment" : "TEST; For NV series",
+                  "SkuRegEx" : "(nv[0-9]+r?)$",
+                  "DriverVersion" : "470.63",
+                  "DirLink": "https://download.microsoft.com/download/b/d/d/bdd729ee-5003-4427-ace4-a7b9172b2e29/NVIDIA-Linux-x86_64-470.63.01-grid-azure.run",
+                  "FwLink": "https://go.microsoft.com/fwlink/?linkid=874272"
+                }
+              ]
             }
           ]
         }
