@@ -690,6 +690,15 @@
                   "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
                   "DriverVersion" : "470",
                   "InstallMethod" : 1
+                },
+                {
+                  "Comment" : "Test For NCv2 series",
+                  "SkuRegEx" : "(nc[0-9]+r?s_v2)$",
+                  "Num" : "11.1",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/",
+                  "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
+                  "DriverVersion" : "450",
+                  "InstallMethod" : 1
                 }
               ]
             },
@@ -812,6 +821,15 @@
                   "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/",
                   "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
                   "DriverVersion" : "470",
+                  "InstallMethod" : 1
+                },
+                {
+                  "Comment" : "Test For NCv2 series",
+                  "SkuRegEx" : "(nc[0-9]+r?s_v2)$",
+                  "Num" : "11.1",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/",
+                  "PinUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin",
+                  "DriverVersion" : "450",
                   "InstallMethod" : 1
                 }
               ]
