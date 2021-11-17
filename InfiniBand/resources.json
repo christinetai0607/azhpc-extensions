@@ -73,7 +73,7 @@
                     },
                     {
                       "Num" : "7.9",
-                      "FwLink" : "http://content.mellanox.com/ofed/MLNX_OFED-5.0-1.0.0.0/MLNX_OFED_LINUX-5.0-1.0.0.0-rhel7.8-x86_64.tgz"
+                      "FwLink" : "http://content.mellanox.com/ofed/MLNX_OFED-5.4-1.0.3.0/MLNX_OFED_LINUX-5.4-1.0.3.0-rhel7.9-x86_64.tgz"
                     },
                     {
                       "Num" : "7.8",
@@ -176,8 +176,8 @@
                       "FwLink" : "http://content.mellanox.com/ofed/MLNX_OFED-5.0-1.0.0.0/MLNX_OFED_LINUX-5.0-1.0.0.0-rhel8.1-x86_64.tgz"
                     },
                     {
-                      "Num" : "7.8",
-                      "FwLink" : "http://content.mellanox.com/ofed/MLNX_OFED-5.0-1.0.0.0/MLNX_OFED_LINUX-5.0-1.0.0.0-rhel7.8-x86_64.tgz"
+                      "Num" : "7.9",
+                      "FwLink" : "http://content.mellanox.com/ofed/MLNX_OFED-5.4-1.0.3.0/MLNX_OFED_LINUX-5.4-1.0.3.0-rhel7.9-x86_64.tgz"
                     },
                     {
                       "Num" : "7.8",
@@ -215,7 +215,7 @@
           "Type" : "CX3-Pro",
           "OS" : [
             {
-              "Comment" : "Driver version is 5.65. Win 2019 and Win 10 are not supported yet.",
+              "Comment" : "Driver version is 5.65.",
               "Name" : "Windows",
               "Distro" : [
                 {
