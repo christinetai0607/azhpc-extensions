@@ -101,7 +101,10 @@
                       "KernelDevelVer" : "3.10.0-693.21.1.el7.x86_64",
                       "KernelDevelRPM" : "https://linuxsoft.cern.ch/cern/centos/7/updates/x86_64/Packages/kernel-devel-3.10.0-693.21.1.el7.x86_64.rpm"
                     }
-                  ]
+                  ],
+                  "LIS" : {
+                    "FwLink" : "https://aka.ms/lis"
+                  }
                 }
               ]
             }
@@ -205,7 +208,10 @@
                       "KernelDevelVer" : "3.10.0-693.21.1.el7.x86_64",
                       "KernelDevelRPM" : "https://linuxsoft.cern.ch/cern/centos/7/updates/x86_64/Packages/kernel-devel-3.10.0-693.21.1.el7.x86_64.rpm"
                     }
-                  ]
+                  ],
+                  "LIS" : {
+                    "FwLink" : "https://aka.ms/lis"
+                  }
                 }
               ]
             }
