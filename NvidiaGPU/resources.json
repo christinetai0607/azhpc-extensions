@@ -341,8 +341,8 @@
               "Version" : [
                 {
                   "Num" : "10.0.130",
-                  "DirLink" : "https://download.microsoft.com/download/9/3/5/9356AEC3-D562-4E16-BF7A-4369980CB0D5/cuda-repo-rhel7-10.0.130-1.x86_64.rpm",
-                  "FwLink" : "https://go.microsoft.com/fwlink/?linkid=874273",
+                  "DirLink" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-repo-rhel7-10.0.130-1.x86_64.rpm",
+                  "FwLink" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-repo-rhel7-10.0.130-1.x86_64.rpm",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
                   "InstallMethod" : 0
                 },
