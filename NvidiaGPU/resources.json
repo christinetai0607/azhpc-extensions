@@ -455,6 +455,7 @@
                   "DriverVersion" : "470.82.01",
                   "DriverDirLink" : "https://download.microsoft.com/download/d/9/1/d9199489-e041-4019-a558-59fc58571a9f/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
                   "DriverFwLink" : "https://go.microsoft.com/fwlink/?linkid=2180349",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-rhel7.repo",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
                   "InstallMethod" : 0
                 },
@@ -467,6 +468,7 @@
                   "DriverVersion" : "470.82.01",
                   "DriverDirLink" : "https://download.microsoft.com/download/d/9/1/d9199489-e041-4019-a558-59fc58571a9f/nvidia-driver-local-repo-rhel7-470.82.01-1.0-1.x86_64.rpm",
                   "DriverFwLink" : "https://go.microsoft.com/fwlink/?linkid=2180349",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-rhel7.repo",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
                   "InstallMethod" : 0
                 }
