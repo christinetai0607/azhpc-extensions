@@ -447,6 +447,15 @@
               "Type" : "CUDA with last supported Nvidia driver",
               "Version" : [
                 {
+                  "Comment" : "For NCasT4v3 series / Tesla T4 GPUs using repo",
+                  "SkuRegEx" : "(nc[0-9]+as_t4)",
+                  "Num" : "10.0.130",
+                  "DriverVersion" : "470.82.01",
+                  "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-rhel7.repo",
+                  "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
+                  "InstallMethod" : 2
+                },
+                {
                   "Comment" : "For NCv1 series / Tesla K80 GPUs",
                   "SkuRegEx" : "(nc[0-9]+r?(_promo)?)$",
                   "Num" : "10.0.130",
