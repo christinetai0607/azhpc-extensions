@@ -349,6 +349,7 @@
               "Version" : [
                 {
                   "Num" : "11.0.2",
+                  "FwLink" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-rhel7.repo",
                   "RepoUrl" : "https://developer.download.nvidia.com/compute/cuda/repos/rhel7/x86_64/cuda-rhel7.repo",
                   "DKMSUrl" : "https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm",
                   "InstallMethod" : 0
