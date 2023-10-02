@@ -166,7 +166,7 @@
     {
       "Comment" : "Latest driver version is at top of the list and pointed to by the static FwLink. Maintain FwLinks for all files.",
       "Name" : "Linux",
-      "Version" : [
+      "Distros" : [
         {
           "OsDistro" : "Ubuntu",
           "Details" : [
